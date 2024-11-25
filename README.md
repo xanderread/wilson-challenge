@@ -2,8 +2,7 @@
 
 The challenge was to create an application, within 3 hours,  that extracts relevant legal clauses from a document.
 
-- Video demo: 
-- Live site. (let me know if its down)
+- [Video demo ](https://www.youtube.com/watch?v=z9BvS_vwLMo&feature=youtu.be)
 
 ### Tech stack
 
@@ -20,8 +19,9 @@ I definitely wish I had some more time on this challenge, having some ideas of d
 
 To run the app locally go into the `/app` directory and follow the instructions in the `README.md`. Before running locally don't forget to create a `.env` file,  you will need a `LLAMA_CLOUD_API_KEY` and a `OPENAI_API_KEY`.
 
-### Main Files To Look At 👀
+I bundled all the PDF.js library in with the repo, so there shouldn't be any extra steps to get that work. 
 
+### Main Files To Look At 👀
 
 - `lib/services/llama-cloud.ts` contains all relevant 'llama-index' & 'llama-cloud' code, including the ingestion pipeline for creating nodes using the documents.
 
