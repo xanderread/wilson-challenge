@@ -6,4 +6,5 @@
 - Is it possible for clauses to fall under more than one category 🤔
 
 ## Further Thoughts
-- It looks like most contracts have a preamble - it would be interesting to parse the preamble first - then inject knowledge of the preamble into the LLM when it was extracting the clauses / relevant data. This way it may know what to expect when looking at a Page with 'header 1.2' etc. 
+- It looks like most contracts have a preamble - it would be interesting to parse the preamble first - then inject knowledge of the preamble into the LLM when it was extracting the clauses / relevant data. This way it may know what to expect when looking at a Page with 'header 1.2' etc.
+- Given some more time I would of couse write lots of tests :) 
