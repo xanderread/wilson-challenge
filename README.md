@@ -2,7 +2,7 @@
 
 The challenge was to create an application, within 3 hours,  that extracts relevant legal clauses from a document.
 
-- [Video demo ](https://www.youtube.com/watch?v=z9BvS_vwLMo&feature=youtu.be)
+- [Video demo ](https://www.youtube.com/watch?v=Xo9w_F0upW8)
 
 ### Tech stack
 
